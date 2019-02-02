@@ -1,6 +1,6 @@
 # Flutter Empty project
 
-Please refer to (fluter.io)[https://flutter.io] to get started on the environment setup
+Please refer to [flutter.io](https://docs.flutter.io) to get started on the environment setup
 
 ## Getting Started
 
