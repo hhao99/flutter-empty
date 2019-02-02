@@ -1,6 +1,6 @@
-# s2
+# Flutter Empty project
 
-A new Flutter project.
+Please refer to (fluter.io)[https://flutter.io] to get started on the environment setup
 
 ## Getting Started
 
